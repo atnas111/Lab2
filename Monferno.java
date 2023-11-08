@@ -7,7 +7,7 @@ import mymoves.monferno.Slack_off;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Monferno extends Pokemon{
+public class Monferno extends Infernape{
     public Monferno(String name, int level){
         super(name, level);
 
