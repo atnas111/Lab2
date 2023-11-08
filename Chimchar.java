@@ -6,7 +6,7 @@ import mymoves.chimchar.Flamethrower;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Chimchar extends Pokemon{
+public class Chimchar extends Monferno{
     public Chimchar(String name, int level){
         super(name, level);
 
