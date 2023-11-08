@@ -7,7 +7,7 @@ import mymoves.numel.Tackle;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
-public class Numel extends Pokemon{
+public class Numel extends Camerupt{
     public Numel(String name, int level){
         super(name, level);
 
